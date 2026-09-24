@@ -278,6 +278,16 @@ section {
     margin: 3rem auto 0;
 }
 
+.certificate-img {
+    display: block;
+    width: 600px;
+    max-width: 100%;
+    height: auto;
+    margin: 1.5rem auto 0;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+}
+
 .projects {
     background-color: var(--white-color);
 }
